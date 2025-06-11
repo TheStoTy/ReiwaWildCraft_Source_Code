@@ -1,0 +1,12 @@
+{
+    "formatVersion": 1,
+    "game": "minecraft",
+    "versionId": "1.0.0",
+    "name": "Reiwa WildCraft",
+    "summary": "A rich Vanilla+ Fabric 1.21 modpack with deeper exploration, better biomes, animations, gear progression, and immersive visuals \u2014 chill but wild.",
+    "files": [],
+    "dependencies": {
+        "minecraft": "1.21",
+        "fabric-loader": "0.15.11"
+    }
+}
